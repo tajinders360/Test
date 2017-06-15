@@ -6,6 +6,7 @@ exports.config =
 {
 	directConnect: true,
 
+	//testing
 	//Capabilities to be passed to the webdriver instance.
 	capabilities: 
 	{
